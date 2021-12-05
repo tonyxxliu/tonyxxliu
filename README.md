@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tony
 #### A financial analyst by day; A mobile/blockchain programmer by night
-I made mobile apps for community for fun. 
+I made mobile apps for local community for fun. 
 
 Skills: Python / Solidity / Flutter / Google Cloud / React JS / SQL / VBA / R
 
